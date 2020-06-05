@@ -24,7 +24,7 @@ csvkit==1.0.3
 cx-Oracle==7.1.0
 cycler==0.10.0
 dbfread==2.0.7
-Django==2.1.7
+Django==2.2.13
 dlib==19.16.0
 elasticsearch==6.3.1
 elasticsearch-dsl==6.3.1
