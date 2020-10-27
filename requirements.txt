@@ -18,7 +18,7 @@ cffi==1.12.0
 chardet==3.0.4
 Click==7.0
 constantly==15.1.0
-cryptography==2.5
+cryptography==3.2
 cssselect==1.0.3
 csvkit==1.0.3
 cx-Oracle==7.1.0
